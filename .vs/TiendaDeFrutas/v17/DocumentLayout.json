@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\TiendaDeFrutas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|c:\\repos\\tiendadefrutas\\tiendadefrutas\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|solutionrelative:tiendadefrutas\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|c:\\repos\\tiendadefrutas\\tiendadefrutas\\services\\contracts\\impl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|solutionrelative:tiendadefrutas\\services\\contracts\\impl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|c:\\repos\\tiendadefrutas\\tiendadefrutas\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|solutionrelative:tiendadefrutas\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|c:\\repos\\tiendadefrutas\\tiendadefrutas\\contracts\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|solutionrelative:tiendadefrutas\\contracts\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|c:\\repos\\tiendadefrutas\\tiendadefrutas\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|solutionrelative:tiendadefrutas\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|c:\\repos\\tiendadefrutas\\tiendadefrutas\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13144-B2D8-4403-87EA-0CB9D4F0898C}|TiendaDeFrutas\\TiendaDeFrutas.csproj|solutionrelative:tiendadefrutas\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TiendaDeFrutas\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TiendaDeFrutas\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:55:32.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Contracts\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "TiendaDeFrutas\\Contracts\\IOrderRepository.cs",
+              "ToolTip": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Contracts\\IOrderRepository.cs",
+              "RelativeToolTip": "TiendaDeFrutas\\Contracts\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:49:44.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "TiendaDeFrutas\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "TiendaDeFrutas\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:31:57.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Services\\Contracts\\impl\\OrderService.cs",
+              "RelativeDocumentMoniker": "TiendaDeFrutas\\Services\\Contracts\\impl\\OrderService.cs",
+              "ToolTip": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Services\\Contracts\\impl\\OrderService.cs",
+              "RelativeToolTip": "TiendaDeFrutas\\Services\\Contracts\\impl\\OrderService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:18:00.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Dto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "TiendaDeFrutas\\Dto\\OrderDto.cs",
+              "ToolTip": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Dto\\OrderDto.cs",
+              "RelativeToolTip": "TiendaDeFrutas\\Dto\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:22:59.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "TiendaDeFrutas\\Entities\\Order.cs",
+              "ToolTip": "C:\\repos\\TiendaDeFrutas\\TiendaDeFrutas\\Entities\\Order.cs",
+              "RelativeToolTip": "TiendaDeFrutas\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:17:16.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
